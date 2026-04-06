@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o [Pedro Ruan]
 
-<!--
-**pgoncalvesz/pgoncalvesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Tecnologia da Informação  
+💻 Focado em desenvolvimento e programação  
+📍 São Paulo - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um estudante em busca da minha primeira oportunidade na área de TI.  
+Tenho conhecimentos em lógica de programação, HTML, CSS e Python, e estou sempre aprendendo novas tecnologias.
+
+---
+
+## 🧠 Tecnologias que estou aprendendo
+- HTML5 e CSS3
+- Python
+- Lógica de Programação
+- Git e GitHub
+
+---
+
+## 📚 Cursos
+- Lógica de Programação – SENAI  
+- Gestão de Projetos – Fundação Bradesco  
+- Python – Curso em Vídeo  
+- HTML e CSS – Curso em Vídeo  
+
+---
+
+## 💻 Projetos
+🔹 Em breve mais projetos aqui no meu GitHub 🚀  
+
+---
+
+## 📫 Contato
+- Email: [seu email]
+- LinkedIn: [seu linkedin]
