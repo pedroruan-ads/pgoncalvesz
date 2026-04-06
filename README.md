@@ -29,6 +29,7 @@ Tenho conhecimentos em lógica de programação, HTML, CSS e Python, e estou sem
 ---
 
 ## 💻 Projetos
+🔹 Calculadora em Python 🚀  
 🔹 Em breve mais projetos aqui no meu GitHub 🚀  
 
 ---
